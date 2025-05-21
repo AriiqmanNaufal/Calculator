@@ -30,8 +30,9 @@ It supports both **mouse** and **keyboard** input for seamless interaction.
 
 
 
----![screenshot](https://github.com/user-attachments/assets/fc6f6961-11a9-4ec0-931c-fc28562b8bb9)
+![screenshot](https://github.com/user-attachments/assets/fc6f6961-11a9-4ec0-931c-fc28562b8bb9)
 
+---
 
 ## 💻 Tech Stack
 
